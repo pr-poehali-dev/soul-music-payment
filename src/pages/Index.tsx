@@ -13,9 +13,9 @@ export default function Index() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
               <img 
-                src="/img/bb871d73-66ed-40fc-a5c6-4e80393bf2dc.jpg" 
+                src="https://cdn.poehali.dev/files/b620157b-42e2-41e0-bea7-a5b812bcb3e6.svg" 
                 alt="SOUL MUSIC Logo" 
-                className="w-10 h-10 rounded-lg object-cover"
+                className="w-12 h-10 object-contain"
               />
               <div>
                 <h1 className="text-2xl font-bold text-blue-900">SOUL MUSIC</h1>
